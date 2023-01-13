@@ -1,8 +1,8 @@
-name: sample-html
+name: harmon-static-dev
 static_sites:
 - environment_slug: html
   github:
-    branch: master
+    branch: dev
     deploy_on_push: true
-    repo: digitalocean/sample-html
-  name: sample-html
+    repo: Harmon-Tech/Harmon-Static
+  name: harmon-static-dev
